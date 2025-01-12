@@ -2,4 +2,3 @@ This is my first project of github
 
 1.this is the first change i made
 
-2.this is the change i  made first
